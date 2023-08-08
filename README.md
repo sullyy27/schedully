@@ -1,11 +1,9 @@
-## Available Scripts
+# Schedully
+A web application created in a group of 3 in collaboration with FDM. Applications main purpose is to help schedule trainers to different courses and avoid conflicts.
 
-In the project directory, you can run:
-
-### `npm run install-all`
-
-Install all dependencies for client-side and server-side
-
-### `npm run dev`
-
-Launches Express and React as one instance
+| Use Case | Technology       |
+|----------|------------------|
+| Frontend | React.js         |
+| Server   | Node.js, Express |
+| Database | MongoDB          |
+| Device   | Web              |
